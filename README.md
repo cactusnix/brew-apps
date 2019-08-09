@@ -3,7 +3,9 @@
 
 ## 非 Mac Apple Store
 网易云音乐`brew cask install neteasemusic`
+
 QQ`brew cask install qq`
+
 微信`brew cask install wechat`
 腾讯柠檬清理`brew cask install tencent-lemon`
 Visual Studio Code`brew cask install visual-studio-code`
