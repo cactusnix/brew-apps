@@ -2,12 +2,16 @@
 🍭Awesome list of applications can be installed by homebrew.
 
 ## Homebrew 的介绍
-
 简而言之，就是Mac的包管理工具。具体的可以查看官网。
 <a href="https://brew.sh/index_zh-cn">homebrew</a>
 
+## 开发的包
+brew最基本的功能就是安装开发需要的包以及工具，比如mysql、tomcat、java、node、python、go等等都可以通过brew进行安装。在此就不一一列举。
+
+`brew install XXX`
+
 ## 非 Mac Apple Store
-在此列出可以通过brew cask安装的app，对应英文名字，方便大家进行安装，不用频繁的进行 `brew search XXX`
+除了可以安装包以外，homebrew也可以安装带有UI的app，在此列出可以通过brew cask安装的app，对应英文名字，方便大家进行安装，不用频繁的进行 `brew search XXX`。
 
 网易云音乐 `brew cask install neteasemusic`
 
@@ -38,7 +42,8 @@ Cakebrew(Homebrew可视化) `brew cask install cakebrew`
 launchrocket(service可视化-系统设置里面) `brew cask install launchrocket`
 
 
-## Mac Store
-`brew install mas`
+## Mac Apple Store
+对于那些只提供Mac Apple Store下载的软件，我们如果也需要通过brew进行安装的话，就需要安装mas，具体介绍可以在官网查看。
+<a href="https://github.com/mas-cli/mas">mas</a>
 
-`b`
+`brew install mas`
