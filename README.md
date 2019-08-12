@@ -3,7 +3,7 @@
 
 ## Homebrew 的介绍
 简而言之，就是Mac的包管理工具。具体的可以查看官网。
-<a href="https://brew.sh/index_zh-cn">homebrew</a>
+[Homebrew](https://brew.sh/index_zh-cn, "Homebrew")
 
 ## 开发的包
 brew最基本的功能就是安装开发需要的包以及工具，比如mysql、tomcat、java、node、python、go等等都可以通过brew进行安装。在此就不一一列举。
@@ -37,6 +37,10 @@ IINA(视频播放器) `brew cask install iina`
 
 iTerm(终端) `brew cask install iterm2`
 
+IDEA(Java的idea) `brew cask install intellij-idea`
+
+qlstephen(增强Mac空格预览的能力，可以以文本方式预览一些文件) `brew cask install qlstephen`
+
 Cakebrew(Homebrew可视化) `brew cask install cakebrew`
 
 launchrocket(service可视化-系统设置里面) `brew cask install launchrocket`
@@ -44,10 +48,10 @@ launchrocket(service可视化-系统设置里面) `brew cask install launchrocke
 
 ## Mac Apple Store
 对于那些只提供Mac Apple Store下载的软件，我们如果也需要通过brew进行安装的话，就需要安装mas，具体介绍可以在官网查看。
-<a href="https://github.com/mas-cli/mas">mas</a>
+[mas](https://github.com/mas-cli/mas, "mas")
 
 `brew install mas`
 
 ## Tips
-1. 要经常更新hombrew, 会更新
+1. 要经常更新hombrew, 会更新本身包信息以及对应的一些cask信息（可能包、cask的下载地址都会有所变化），这样之后brew的包才能正确，brew cask才能及时更新到最新的版本，同时不会出现校验错误。
 2. 
