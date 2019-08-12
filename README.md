@@ -47,3 +47,7 @@ launchrocket(service可视化-系统设置里面) `brew cask install launchrocke
 <a href="https://github.com/mas-cli/mas">mas</a>
 
 `brew install mas`
+
+## Tips
+1. 要经常更新hombrew, 会更新
+2. 
