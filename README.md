@@ -3,7 +3,7 @@
 
 ## Homebrew 的介绍
 简而言之，就是Mac的包管理工具。具体的可以查看官网。
-[Homebrew]("https://brew.sh/index_zh-cn", "Homebrew")
+[Homebrew](https://brew.sh/index_zh-cn)
 
 ## 开发的包
 brew最基本的功能就是安装开发需要的包以及工具，比如mysql、tomcat、java、node、python、go等等都可以通过brew进行安装。在此就不一一列举。
@@ -48,7 +48,7 @@ launchrocket(service可视化-系统设置里面) `brew cask install launchrocke
 
 ## Mac Apple Store
 对于那些只提供Mac Apple Store下载的软件，我们如果也需要通过brew进行安装的话，就需要安装mas，具体介绍可以在官网查看。
-[mas](https://github.com/mas-cli/mas, "mas")
+[mas](https://github.com/mas-cli/mas)
 
 `brew install mas`
 
