@@ -37,6 +37,8 @@ IINA(视频播放器) `brew cask install iina`
 
 iTerm(终端) `brew cask install iterm2`
 
+terminus(终端) `brew cask install terminus`
+
 IDEA(Java的idea) `brew cask install intellij-idea`
 
 qlstephen(增强Mac空格预览的能力，可以以文本方式预览一些文件) `brew cask install qlstephen`
