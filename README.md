@@ -47,6 +47,8 @@ Cakebrew(Homebrew可视化) `brew cask install cakebrew`
 
 launchrocket(service可视化-系统设置里面) `brew cask install launchrocket`
 
+motrix(完美替代迅雷的下载器) `brew cask install motrix`
+
 
 ## Mac Apple Store
 对于那些只提供Mac Apple Store下载的软件，我们如果也需要通过brew进行安装的话，就需要安装mas，具体介绍可以在官网查看。
