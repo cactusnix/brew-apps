@@ -114,6 +114,12 @@ $ brew cask install terminus
 $ brew cask install intellij-idea
 ```
 
+**data-grip(jetbrains的数据库管理工具)**
+
+```shell
+$ brew cask install datagrip
+```
+
 **Visual Studio Code** 
 
 ```shell
