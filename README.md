@@ -180,3 +180,4 @@ $ brew cask install launchrocket
 
 1. 要经常更新hombrew, 会更新本身包信息以及对应的一些cask信息（可能包、cask的下载地址都会有所变化），这样之后brew的包才能正确，brew cask才能及时更新到最新的版本，同时不会出现校验错误。
 2. 关于Java的版本问题，建议使用openJDK。技术永远在更新，然而我们似乎永远在停留。
+3. 关于brew cask outdated 如果支持auto_updates的应用，将被忽略，引用于 " Many applications update themselves, so their Casks are ignored by brew cask outdated and brew cask upgrade"
