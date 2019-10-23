@@ -17,21 +17,21 @@ brew最基本的功能就是安装开发需要的包以及工具，比如mysql�
 
 除了可以安装包以外，homebrew也可以安装带有UI的app，在此列出可以通过brew cask安装的app，对应英文名字，方便大家进行安装，不用频繁的进行 `brew search XXX`。
 
-[社交类](###社交类)
+[社交类](#社交类)
 
-[音乐类](###音乐类)
+[音乐类](#音乐类)
 
-[视频类](###视频类)
+[视频类](#视频类)
 
-[图片类](###图片类)
+[图片类](#图片类)
 
-[下载类](###下载类)
+[下载类](#下载类)
 
-[解压类](###解压类)
+[解压类](#解压类)
 
-[开发工具](###开发工具)
+[开发工具](#开发工具)
 
-[其他类](###其他类)
+[其他类](#其他类)
 
 
 ### 社交类
@@ -167,6 +167,11 @@ $ brew cask install cakebrew
  
 ```shell
 $ brew cask install launchrocket
+```
+
+**microsoft office 微软Office**
+```shell
+$ brew cask install microsoft-office
 ```
 
 ## Mac Apple Store
